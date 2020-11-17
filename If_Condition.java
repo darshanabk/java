@@ -1,5 +1,3 @@
-package com.java_tutorial;
-
 public class If_Condition {
     public static int a = 10;
     public static int b = 20;
